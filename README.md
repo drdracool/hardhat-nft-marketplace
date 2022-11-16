@@ -2,7 +2,7 @@
 
 <br/>
 <p align="center">
-![image](https://user-images.githubusercontent.com/97832811/202074080-6976990b-e00c-4180-9ff9-49afaecbd568.png)
+<img width="840" alt="image" src="https://user-images.githubusercontent.com/97832811/202105417-f13e2fc8-70b8-4359-8264-9721e01f5279.png">
 </a>
 </p>
 <br/>
