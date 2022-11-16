@@ -2,7 +2,7 @@
 
 <br/>
 <p align="center">
-<img src="./img/hero.png" width="500" alt="Hardhat NextJS Marketplace">
+![image](https://user-images.githubusercontent.com/97832811/202074080-6976990b-e00c-4180-9ff9-49afaecbd568.png)
 </a>
 </p>
 <br/>
