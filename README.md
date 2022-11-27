@@ -10,7 +10,6 @@
 - [Hardhat NFT Marketplace](#hardhat-nft-marketplace)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
-  - [Quickstart](#quickstart)
 - [Usage](#usage)
   - [Testing](#testing)
 - [Deployment to a testnet or mainnet](#deployment-to-a-testnet-or-mainnet)
@@ -30,13 +29,6 @@
     - `yarn --version` and get an output like: `x.x.x`
     - You might need to install it with `npm`
 
-## Quickstart
-
-```
-git clone https://github.com/drdracool/hardhat-nft-marketplace
-cd hardhat-nextjs-nft-marketplace-fcc
-yarn
-```
 
 # Usage
 
