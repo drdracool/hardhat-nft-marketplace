@@ -33,7 +33,7 @@
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-nextjs-nft-marketplace-fcc
+git clone https://github.com/drdracool/hardhat-nft-marketplace
 cd hardhat-nextjs-nft-marketplace-fcc
 yarn
 ```
